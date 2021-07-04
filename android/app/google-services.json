@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094426489222",
+    "project_id": "tradebook-7f850",
+    "storage_bucket": "tradebook-7f850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094426489222:android:a5c310b546ad5ac3353c07",
+        "android_client_info": {
+          "package_name": "com.example.trade_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094426489222-cbh4nrtl5982v1nnl1emhaakukl4itu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trade_book",
+            "certificate_hash": "c85947e3d40732cbf70c609a8169d0e2da9c6153"
+          }
+        },
+        {
+          "client_id": "1094426489222-lkbocqpq6mh9dlvqt8es7v3a46gvt4e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0NgL9ov61kb8bMPdpdx-uoMvtFGdKu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094426489222-lkbocqpq6mh9dlvqt8es7v3a46gvt4e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
